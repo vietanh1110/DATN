@@ -1,55 +1,6 @@
-# StudySystem
+# AdminSystem
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
-
-## Toastr Notifications
-
-npm install --save ngx-toastr then <br/>
-"styles": [<br/>
-"@angular/material/prebuilt-themes/indigo-pink.css",<br/>
-"node_modules/bootstrap/dist/css/bootstrap.min.css", // bootstrap<br/>
-"node_modules/ngx-toastr/toastr.css", // toastr<br/>
-"src/styles.css"<br/>
-],<br/>
-finaly: import to app.module.ts ToastrModule.forRoot()<br/>
-
-## Material
-
-create file material.module.ts and add library to exports
-
-## Environments
-
-ng g environments<br/>
-add base environment to environemnt.development.ts and environemnt.ts
-
-## Bootstrap
-
-npm install bootstrap, as follows:<br/>
-"styles": [<br/>
-"@angular/material/prebuilt-themes/indigo-pink.css",<br/>
-"node_modules/bootstrap/dist/css/bootstrap.min.css", // bootstrap<br/>
-"node_modules/ngx-toastr/toastr.css", // toastr<br/>
-"src/styles.css"<br/>
-],<br/>
-"scripts": [<br/>
-"node_modules/bootstrap/dist/js/bootstrap.min.js", // bootstrap<br/>
-"node_modules/jquery/dist/jquery.min.js"<br/>
-]<br/>
-
-## fxFlex API in Angular flex layout
-
-npm i -s @angular/flex-layout @angular/cdk<br/>
-
-<b>app.module.ts</b><br/>
-
-import { FlexLayoutModule } from '@angular/flex-layout';<br/>
-...<br/>
-
-@NgModule({<br/>
-    ...<br/>
-    imports: [ FlexLayoutModule ],<br/>
-    ...<br/>
-});<br/>
 
 ## Development server
 
