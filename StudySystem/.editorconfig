@@ -75,4 +75,4 @@ csharp_style_expression_bodied_indexers = true:silent
 csharp_style_expression_bodied_accessors = true:silent
 csharp_style_expression_bodied_lambdas = true:silent
 csharp_style_expression_bodied_local_functions = false:silent
-file_header_template = <copyright file="{fileName}" ownedby="Xuan Truong">\n Copyright (c) XuanTruong. All rights reserved.\n FileType: Visual CSharp source file\n Created On: 29/09/2023\n Last Modified On: 29/09/2023\n Description: {fileName}\n</copyright>
+file_header_template = <copyright file="{fileName}" ownedby="Dang Vanh">\n Copyright (c) DangVanh. All rights reserved.\n FileType: Visual CSharp source file\n Created On: 29/09/2023\n Last Modified On: 29/09/2023\n Description: {fileName}\n</copyright>
